@@ -1,0 +1,6 @@
+Nome: João
+E-mail: joao@example.com
+Telefone: 123456789
+Nome: Maria
+E-mail: maria@example.com
+Telefone: 987654321
