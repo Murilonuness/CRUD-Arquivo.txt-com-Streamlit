@@ -53,11 +53,16 @@ Este projeto implementa um CRUD utilizando Streamlit, onde é possível realizar
     E-mail: maria@example.com
     Telefone: 987654321
 
+## Deploy
+O projeto está disponível para uso público. Você pode acessar a versão online do CRUD [aqui](https://crud-arquivo-txt-com-streamlit.onrender.com).
+
+## Preview
+Veja uma captura de tela da interface abaixo:
+
+![Preview da Interface](/media/preview.jpg)
+
 ## Contribuindo
-Sinta-se à vontade para contribuir para este projeto! Se encontrar algum problema ou quiser adicionar melhorias, por favor, abra uma issue ou envie um pull request.
+Sinta-se à vontade para contribuir para este projeto! Se encontrar algum problema ou quiser adicionar melhorias, por favor, abra uma issue ou envie um pull request. Você pode ver mais sobre meus projetos e contribuições em meu perfil no [GitHub](https://github.com/Murilonuness).
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-
-
