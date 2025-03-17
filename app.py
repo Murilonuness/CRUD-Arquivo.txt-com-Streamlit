@@ -4,6 +4,8 @@ import json
 import os
 import pandas as pd
 
+st.set_page_config(page_title="UserFlow", page_icon=":guardsman:", layout="wide")
+
 ARQUIVO_JSON = "usuarios.json"
 
 def carregar_usuarios():
