@@ -1,14 +1,12 @@
 # UserFlow
 
-![UserFlow Logo](https://via.placeholder.com/800x200?text=UserFlow)
-
 ## 📌 Sobre o Projeto
 
 **UserFlow** é um sistema eficiente para cadastro, listagem, atualização e exclusão de usuários, desenvolvido com **Streamlit** e **Pandas**. Ele armazena os dados em um arquivo JSON, garantindo facilidade na manipulação e persistência dos registros.
 
 Além disso, oferece um **dashboard analítico**, ajudando empresas a compreenderem melhor seu público por meio da análise de **faixa etária** e **distribuição geográfica dos clientes**.
 
-## Acesse o Projeto
+## 📌 Acesse o Projeto
 
 O projeto está disponível online, e você pode acessá-lo através do seguinte link:  
 [UserFlow](https://jsoncrud-streamlit.onrender.com)
