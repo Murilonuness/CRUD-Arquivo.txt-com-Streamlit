@@ -1,0 +1,274 @@
+{
+    "rafinha@gmail.com": {
+        "Nome": "Rafaela",
+        "Idade": "36",
+        "Email": "rafinha@gmail.com",
+        "Senha": "123154223",
+        "Telefone": "1599212431",
+        "Cidade": "Sorocaba"
+    },
+    "vo_joao@gmail.com": {
+        "Nome": "Vo João",
+        "Idade": "55",
+        "Email": "vo_joao@gmail.com",
+        "Senha": "12424532",
+        "Telefone": "12313",
+        "Cidade": "Sorocaba"
+    },
+    "enzinho@gmail.com": {
+        "Nome": "Enzo",
+        "Idade": "14",
+        "Email": "enzinho@gmail.com",
+        "Senha": "213",
+        "Telefone": "123",
+        "Cidade": "Salto De Pirapora"
+    },
+    "dani@gmail.com": {
+        "Nome": "Daniel",
+        "Idade": "25",
+        "Email": "dani@gmail.com",
+        "Senha": "123",
+        "Telefone": "123",
+        "Cidade": "Sorocaba"
+    },
+    "maria_sp@gmail.com": {
+        "Nome": "Maria",
+        "Idade": "28",
+        "Email": "maria_sp@gmail.com",
+        "Senha": "maria123",
+        "Telefone": "987654321",
+        "Cidade": "São Paulo"
+    },
+    "luiz@gmail.com": {
+        "Nome": "Luiz",
+        "Idade": "40",
+        "Email": "luiz@gmail.com",
+        "Senha": "luiz1234",
+        "Telefone": "912345678",
+        "Cidade": "Campinas"
+    },
+    "ana_sbdo@gmail.com": {
+        "Nome": "Ana",
+        "Idade": "22",
+        "Email": "ana_sbdo@gmail.com",
+        "Senha": "ana2023",
+        "Telefone": "998877665",
+        "Cidade": "São Bernardo do Campo"
+    },
+    "felipe_rp@gmail.com": {
+        "Nome": "Felipe",
+        "Idade": "30",
+        "Email": "felipe_rp@gmail.com",
+        "Senha": "felipe123",
+        "Telefone": "923456789",
+        "Cidade": "Ribeirão Preto"
+    },
+    "carla_scs@gmail.com": {
+        "Nome": "Carla",
+        "Idade": "33",
+        "Email": "carla_scs@gmail.com",
+        "Senha": "carla321",
+        "Telefone": "931234567",
+        "Cidade": "São Caetano do Sul"
+    },
+    "jorge_sjc@gmail.com": {
+        "Nome": "Jorge",
+        "Idade": "45",
+        "Email": "jorge_sjc@gmail.com",
+        "Senha": "jorge999",
+        "Telefone": "950123456",
+        "Cidade": "São José dos Campos"
+    },
+    "beatriz_guarulhos@gmail.com": {
+        "Nome": "Beatriz",
+        "Idade": "29",
+        "Email": "beatriz_guarulhos@gmail.com",
+        "Senha": "beatriz123",
+        "Telefone": "963852741",
+        "Cidade": "Guarulhos"
+    },
+    "gustavo_bh@gmail.com": {
+        "Nome": "Gustavo",
+        "Idade": "38",
+        "Email": "gustavo_bh@gmail.com",
+        "Senha": "gustavo2023",
+        "Telefone": "974563218",
+        "Cidade": "Belo Horizonte"
+    },
+    "patricia_ctba@gmail.com": {
+        "Nome": "Patricia",
+        "Idade": "41",
+        "Email": "patricia_ctba@gmail.com",
+        "Senha": "patricia12",
+        "Telefone": "964537829",
+        "Cidade": "Curitiba"
+    },
+    "ricardo_pa@gmail.com": {
+        "Nome": "Ricardo",
+        "Idade": "32",
+        "Email": "ricardo_pa@gmail.com",
+        "Senha": "ricardo1234",
+        "Telefone": "929832671",
+        "Cidade": "Porto Alegre"
+    },
+    "lucas_salvador@gmail.com": {
+        "Nome": "Lucas",
+        "Idade": "24",
+        "Email": "lucas_salvador@gmail.com",
+        "Senha": "lucas123",
+        "Telefone": "987654321",
+        "Cidade": "Salvador"
+    },
+    "julia_ftz@gmail.com": {
+        "Nome": "Julia",
+        "Idade": "27",
+        "Email": "julia_ftz@gmail.com",
+        "Senha": "julia987",
+        "Telefone": "912345678",
+        "Cidade": "Fortaleza"
+    },
+    "roberto_recife@gmail.com": {
+        "Nome": "Roberto",
+        "Idade": "35",
+        "Email": "roberto_recife@gmail.com",
+        "Senha": "roberto999",
+        "Telefone": "925634758",
+        "Cidade": "Recife"
+    },
+    "victor_manaus@gmail.com": {
+        "Nome": "Victor",
+        "Idade": "29",
+        "Email": "victor_manaus@gmail.com",
+        "Senha": "victor1234",
+        "Telefone": "968213547",
+        "Cidade": "Manaus"
+    },
+    "laura_belem@gmail.com": {
+        "Nome": "Laura",
+        "Idade": "26",
+        "Email": "laura_belem@gmail.com",
+        "Senha": "laura321",
+        "Telefone": "963852741",
+        "Cidade": "Belém"
+    },
+    "fernando_pa@gmail.com": {
+        "Nome": "Fernando",
+        "Idade": "48",
+        "Email": "fernando_pa@gmail.com",
+        "Senha": "fernando456",
+        "Telefone": "973624180",
+        "Cidade": "Porto Alegre"
+    },
+    "carolina_sl@gmail.com": {
+        "Nome": "Carolina",
+        "Idade": "31",
+        "Email": "carolina_sl@gmail.com",
+        "Senha": "carolina789",
+        "Telefone": "981245697",
+        "Cidade": "São Luís"
+    },
+    "andre_vitoria@gmail.com": {
+        "Nome": "André",
+        "Idade": "40",
+        "Email": "andre_vitoria@gmail.com",
+        "Senha": "andre1010",
+        "Telefone": "929376450",
+        "Cidade": "Vitória"
+    },
+    "renata_jp@gmail.com": {
+        "Nome": "Renata",
+        "Idade": "37",
+        "Email": "renata_jp@gmail.com",
+        "Senha": "renata432",
+        "Telefone": "945872639",
+        "Cidade": "João Pessoa"
+    },
+    "patricia_silva_cg@gmail.com": {
+        "Nome": "Patricia Silva",
+        "Idade": "34",
+        "Email": "patricia_silva_cg@gmail.com",
+        "Senha": "silva123",
+        "Telefone": "939123654",
+        "Cidade": "Campo Grande"
+    },
+    "maria_bh@gmail.com": {
+        "Nome": "Maria",
+        "Idade": "28",
+        "Email": "maria_bh@gmail.com",
+        "Senha": "maria123",
+        "Telefone": "993872645",
+        "Cidade": "Belo Horizonte"
+    },
+    "joao_ctba@gmail.com": {
+        "Nome": "João",
+        "Idade": "33",
+        "Email": "joao_ctba@gmail.com",
+        "Senha": "joao456",
+        "Telefone": "981234567",
+        "Cidade": "Curitiba"
+    },
+    "carla_floria@gmail.com": {
+        "Nome": "Carla",
+        "Idade": "26",
+        "Email": "carla_floria@gmail.com",
+        "Senha": "carla789",
+        "Telefone": "991234879",
+        "Cidade": "Florianópolis"
+    },
+    "bruno_pa@gmail.com": {
+        "Nome": "Bruno",
+        "Idade": "30",
+        "Email": "bruno_pa@gmail.com",
+        "Senha": "bruno000",
+        "Telefone": "991856472",
+        "Cidade": "Porto Alegre"
+    },
+    "patricia_sp_2@gmail.com": {
+        "Nome": "Patricia",
+        "Idade": "45",
+        "Email": "patricia_sp_2@gmail.com",
+        "Senha": "patricia456",
+        "Telefone": "962145783",
+        "Cidade": "São Paulo"
+    },
+    "felipe_rj@gmail.com": {
+        "Nome": "Felipe",
+        "Idade": "38",
+        "Email": "felipe_rj@gmail.com",
+        "Senha": "felipe654",
+        "Telefone": "933845672",
+        "Cidade": "Rio de Janeiro"
+    },
+    "ana_recife@gmail.com": {
+        "Nome": "Ana",
+        "Idade": "29",
+        "Email": "ana_recife@gmail.com",
+        "Senha": "ana999",
+        "Telefone": "933721536",
+        "Cidade": "Recife"
+    },
+    "roberto_salvador@gmail.com": {
+        "Nome": "Roberto",
+        "Idade": "41",
+        "Email": "roberto_salvador@gmail.com",
+        "Senha": "roberto321",
+        "Telefone": "926479381",
+        "Cidade": "Salvador"
+    },
+    "gabriela_manaus@gmail.com": {
+        "Nome": "Gabriela",
+        "Idade": "32",
+        "Email": "gabriela_manaus@gmail.com",
+        "Senha": "gabriela555",
+        "Telefone": "939506184",
+        "Cidade": "Manaus"
+    },
+    "gustavo_natal@gmail.com": {
+        "Nome": "Gustavo",
+        "Idade": "27",
+        "Email": "gustavo_natal@gmail.com",
+        "Senha": "gustavo999",
+        "Telefone": "961237483",
+        "Cidade": "Natal"
+    }
+}

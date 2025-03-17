@@ -1,68 +1,91 @@
-# CRUD com Arquivo de Texto
+# UserFlow
 
-Este projeto implementa um CRUD utilizando Streamlit, onde é possível realizar as operações de Cadastro, Atualização e Exclusão de usuários. Os dados são armazenados em um arquivo `.txt`, e as manipulações de dados acontecem por meio de listas e arquivos de texto, demonstrando habilidades em manipulação de dados e a integração com páginas web usando Streamlit.
+![UserFlow Logo](https://via.placeholder.com/800x200?text=UserFlow)
 
-## Funcionalidades
-- **Cadastro de Usuário**: O usuário pode cadastrar seu nome, e-mail e telefone. O e-mail é utilizado como identificador único.
-- **Atualização de Dados**: O usuário pode atualizar seu nome, e-mail ou telefone com base no e-mail cadastrado.
-- **Exclusão de Usuário**: O usuário pode excluir seu cadastro informando o e-mail.
+## 📌 Sobre o Projeto
 
-## Tecnologias Usadas
-- **Streamlit**: Framework para criação de interfaces web interativas e fáceis de usar em Python.
-- **Manipulação de Arquivo .txt**: Os dados são salvos e manipulados em um arquivo `.txt`.
-- **Python**: Lógica de programação utilizando listas, controle de fluxo (condicionais), loops e manipulação de arquivos.
+**UserFlow** é um sistema eficiente para cadastro, listagem, atualização e exclusão de usuários, desenvolvido com **Streamlit** e **Pandas**. Ele armazena os dados em um arquivo JSON, garantindo facilidade na manipulação e persistência dos registros.
 
-## Como Usar
-1. Clone o repositório para sua máquina local:
-    ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-    ```
-2. Instale as dependências do Streamlit:
-    ```bash
-    pip install streamlit
-    ```
-3. Execute o arquivo principal do Streamlit:
-    ```bash
-    streamlit run app.py
-    ```
+Além disso, oferece um **dashboard analítico**, ajudando empresas a compreenderem melhor seu público por meio da análise de **faixa etária** e **distribuição geográfica dos clientes**.
 
-4. Acesse a interface em **http://localhost:8501** para realizar o Cadastro, Atualização e Exclusão de usuários.
+## ✨ Funcionalidades
 
-## Funcionalidade do CRUD
-- **Cadastro**:
-  - O usuário informa seu nome, e-mail e telefone.
-  - O sistema verifica se o e-mail já está cadastrado e, se não, o adiciona ao arquivo `.txt`.
-- **Atualização**:
-  - O usuário pode atualizar seus dados fornecendo o e-mail registrado e novos valores para o nome, e-mail ou telefone.
-- **Exclusão**:
-  - O usuário pode excluir seu cadastro, informando seu e-mail. O sistema remove os dados do arquivo.
+✅ Cadastro de usuários (com e-mail único para evitar duplicações)
+✅ Listagem de todos os usuários cadastrados
+✅ Busca por usuário específico via e-mail
+✅ Atualização de dados com confirmação de senha
+✅ Exclusão de usuário com confirmação de senha
+✅ **Dashboard analítico** com insights sobre idade e localização dos clientes
 
-## Estrutura do Código
-- **app.py**: Este arquivo contém a implementação das funções do CRUD. Ele é responsável por:
-  - Realizar o cadastro, verificação e armazenamento de dados em arquivo.
-  - Permitir a atualização de dados já cadastrados.
-  - Excluir dados com base no e-mail do usuário.
-  - Utilizar Streamlit para a interface web.
-- **usuarios.txt**: Este arquivo armazena os dados dos usuários em formato texto. Cada usuário é registrado com seu nome, e-mail e telefone.
+## 🖥️ Previews
 
-## Exemplo de Dados no Arquivo `usuarios.txt`
-    Nome: João
-    E-mail: joao@example.com
-    Telefone: 123456789
-    Nome: Maria
-    E-mail: maria@example.com
-    Telefone: 987654321
+### 📌 Tela de Cadastro
+![Cadastro](./media/Cadastro.jpg)
 
-## Deploy
-O projeto está disponível para uso público. Você pode acessar a versão online do CRUD [aqui](https://crud-arquivo-txt-com-streamlit.onrender.com).
+### 📊 Dashboard - Faixa Etária
+![Faixa Etária](./media/FaixaEtária.jpg)
 
-## Preview
-Veja uma captura de tela da interface abaixo:
+### 🌍 Dashboard - Cidades
+![Cidades](./media/Cidades.jpg)
 
-![Preview da Interface](/media/preview.jpg)
+## 🏗️ Estrutura do Projeto
 
-## Contribuindo
-Sinta-se à vontade para contribuir para este projeto! Se encontrar algum problema ou quiser adicionar melhorias, por favor, abra uma issue ou envie um pull request. Você pode ver mais sobre meus projetos e contribuições em meu perfil no [GitHub](https://github.com/Murilonuness).
+```
+UserFlow/
+│── app.py                 # Código principal do Streamlit
+│── usuarios.json          # Banco de dados (JSON)
+│── requirements.txt       # Dependências do projeto
+│── LICENSE                # Licença do projeto
+│── /media                 # Capturas de tela para o README
+```
 
-## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+## 🛠️ Tecnologias Utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+- **Python 3** 🐍
+- **Streamlit** (Interface interativa)
+- **Pandas** (Manipulação e análise de dados)
+- **JSON** (Armazenamento de dados)
+- **OS** (Gerenciamento de arquivos)
+- **Time** (Feedbacks dinâmicos para o usuário)
+
+
+## 🚀 Como Executar
+
+1. **Clone o repositório:**
+   ```sh
+   git clone https://github.com/seuusuario/UserFlow.git
+   cd UserFlow
+   ```
+
+2. **Crie e ative um ambiente virtual:**
+   ```sh
+   python -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   venv\Scripts\activate  # Windows
+   ```
+
+3. **Instale as dependências:**
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+4. **Execute o aplicativo:**
+   ```sh
+   streamlit run app.py
+   ```
+
+---
+
+## 📌 Melhorias Futuras
+🔹 Adicionar autenticação mais robusta com criptografia de senhas 🔐
+🔹 Implementar suporte para banco de dados SQL 🔗
+🔹 Criar gráficos mais avançados para análise de tendências 📊
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a **MIT License** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+💡 *Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.*
+
